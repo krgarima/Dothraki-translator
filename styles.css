@@ -42,8 +42,9 @@ body {
 
 .btn-primary2 {
     background-color: rgb(229, 229, 186);
-    border-radius: 0.5rem;
+    border-radius: 0.7rem;
     color: black;
+    margin: 0.5rem;
 }
 
 hr {
@@ -60,8 +61,8 @@ hr {
 /** header **/
 
 .hero {
-    padding: 2rem;
-    padding-top: 6rem;
+    padding: 1rem;
+    padding-top: 4rem;
 }
 
 .hero-blogs {
@@ -108,11 +109,12 @@ hr {
 /** footer **/
 
 footer {
-    background-color: var(--primary-color);
+    background-color: #D97706;
     padding: 2rem 1rem;
     text-align: center;
     color: white;
     border-radius: 1rem;
+    border-color: white;
 }
 
 .footer .link {
