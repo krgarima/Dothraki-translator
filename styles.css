@@ -35,13 +35,12 @@ body {
 }
 
 .btn-primary {
-    background-color: var(--primary-color);
+    background-color: white;
     border-radius: 0.5rem;
-    color: white;
 }
 
 .btn-primary2 {
-    background-color: var(--primary-color);
+    background-color: #f8e390;
     border-radius: 0.7rem;
     color: black;
     margin: 0.5rem;
