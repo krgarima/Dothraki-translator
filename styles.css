@@ -41,7 +41,7 @@ body {
 }
 
 .btn-primary2 {
-    background-color: rgb(229, 229, 186);
+    background-color: var(--primary-color);
     border-radius: 0.7rem;
     color: black;
     margin: 0.5rem;
@@ -109,7 +109,7 @@ hr {
 /** footer **/
 
 footer {
-    background-color: #F59E0B;
+    background-color: #D97706;
     padding: 2rem 1rem;
     text-align: center;
     color: white;
